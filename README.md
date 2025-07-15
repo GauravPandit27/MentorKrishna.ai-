@@ -1,5 +1,4 @@
 
-```markdown
 # 🧘‍♂️ MentorKrishna.ai  
 *A Spiritual Copilot Powered by Bhagavad Gita & Generative AI*
 
