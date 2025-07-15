@@ -38,10 +38,6 @@ Whether you're stuck in self-doubt, recovering from rejection, or just seeking c
 
 ---
 
-## 📸 Screenshot
-
-![MentorKrishna.ai Screenshot](https://i.imgur.com/zI9IVGl.png)
-
 ---
 
 ## 🚀 Tech Stack
